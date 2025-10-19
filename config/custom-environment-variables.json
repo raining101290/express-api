@@ -1,0 +1,6 @@
+{
+    "auth": {
+        "user": "produser",
+        "pass": "app_password"  
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Development Application",
+    "mail": {
+        "host": "smtp.devmail.com",
+        "port": 587,
+        "secure": false,
+        "auth": {
+            "user": "devuser",
+            "pass": "devpassword"  
+        }
+    }
+}

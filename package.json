@@ -1,6 +1,7 @@
 {
   "name": "express-api",
   "version": "1.0.0",
+  "node": "v24.8.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,9 +12,12 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "config": "^4.1.1",
+    "debug": "^4.4.3",
     "express": "^5.1.0",
     "helmet": "^8.1.0",
     "joi": "^18.0.1",
+    "mongoose": "^8.19.1",
     "morgan": "^1.10.1"
   }
 }

@@ -1,0 +1,12 @@
+{
+    "name": "Production Application",
+    "mail": {
+        "host": "smtp.productionmail.com",
+        "port": 587,
+        "secure": false,
+        "auth": {
+            "user": "produser",
+            "pass": "prodpassword"  
+        }
+    }
+}
